@@ -1,5 +1,7 @@
 // CAMBIAR DE PAGINA CADA X SEGUNDOS
 
+// es necesario coger la url actual y añadirle la extension de idioma, para que el plugin funcione en el multisite
+
 // if( wp_is_mobile()
 // probar para comprobar si no es movil y de un idioma en concreto, para el caso de las TV
 	
